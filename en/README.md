@@ -1,4 +1,4 @@
-'m a developer. I have been working at PMSIpilot on medical software for 4 years.
+I'm a developer. I have been working at PMSIpilot on medical software for 4 years.
 
 `PHP` `MySql` `Symfony` `Silex` `JS` `CSS` `Bash`
 
@@ -32,7 +32,7 @@
  * Testing (unit, functional)
  * Migration to symfony
  * Maintenance of applications with a lot de buisness-logic
- * Involvment in the introduction of new workflows (espacialy on testing)
+ * Involvement in the introduction of new workflows (espacialy on testing)
  * Trainings of users
  * Specification proposals
 
